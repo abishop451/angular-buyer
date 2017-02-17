@@ -1,11 +1,11 @@
 {
-  "appname": "Angular Buyer",
+  "appname": "Pizza Luce Buyer",
   "scope": "FullAccess",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
-  "buyerid": "XXXX",
-  "catalogid": "XXXX",
+  "clientid": "51CAACAA-96FE-4E0F-BCB0-F1B4F65E5232",
+  "buyerid": "PizzaLuce",
+  "catalogid": "PizzaLuce",
   "environment": "prod",
   "defaultstate": "home",
   "anonymous": false,
-  "bootswatchtheme": null
+  "bootswatchtheme": "Cyborg"
 }
