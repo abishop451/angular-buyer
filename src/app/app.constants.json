@@ -3,7 +3,7 @@
   "scope": "FullAccess",
   "clientid": "51CAACAA-96FE-4E0F-BCB0-F1B4F65E5232",
   "buyerid": "PizzaLuce",
-  "catalogid": "PizzaLuce",
+  "catalogid": "RW-Catalog",
   "environment": "prod",
   "defaultstate": "home",
   "anonymous": false,
