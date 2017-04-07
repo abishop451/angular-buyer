@@ -1,11 +1,11 @@
 {
-  "appname": "Angular Buyer",
+  "appname": "Rojo Buyer",
   "scope": "FullAccess",
-  "clientid": "XXXXXXXX-XXXX-XXXX-XXXX-XXXXXXXXXXXX",
-  "buyerid": "XXXX",
-  "catalogid": "XXXX",
+  "clientid": "5D7D3C0B-6156-473D-8B53-C42D8A2206E4",
+  "buyerid": "Rojo",
+  "catalogid": "RW-Catalog",
   "environment": "prod",
   "defaultstate": "home",
   "anonymous": false,
-  "bootswatchtheme": null
+  "bootswatchtheme": "Darkly"
 }
